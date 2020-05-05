@@ -1,0 +1,59 @@
+body {
+  padding-top: 75px;
+}
+.game
+{
+	display:relative;
+}
+.starter-template {
+  padding: 40px 15px;
+  text-align: center;
+}
+.cart-qty{
+	color:#333;
+}
+.cart-area
+{
+	background:#333;
+	color:#fff;
+	padding:10px;
+	margin-bottom:20px;
+}
+.heading-dark
+{
+	background-color:#333 !important;
+	color:#fff !important;
+}
+.heading-green
+{
+	background-color:green !important;
+	color:#fff !important;
+}
+.game-price
+{
+	position:absolute;
+	bottom:120px;
+	right:15px;
+	background:#3b7e14;
+	color:#fff;
+	padding:5px;
+	font-size:22px;
+}
+.game img
+{
+	width:100%;
+}
+.qty{
+	width: 40px;
+	color: #666 !important;
+	text-align: center;
+	margin-bottom: 20px;
+}
+.game-name
+{
+	width:100%;
+	background-color:#333;
+	color:#fff;
+	text-align:center;
+	
+}
